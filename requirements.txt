@@ -1,0 +1,15 @@
+# ── Telegram clients ──────────────────────────
+pyrogram==2.0.106
+TgCrypto
+
+# ── Voice Chat streaming ───────────────────────
+py-tgcalls==1.0.0
+
+# ── YouTube download ───────────────────────────
+yt-dlp
+
+# ── Image processing (optional, for thumbnails) 
+Pillow
+
+# ── Environment variables ──────────────────────
+python-dotenv
